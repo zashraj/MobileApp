@@ -5826,11 +5826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dig_servdev\\Desktop\\demo\\MobileApp\\MobileAppTest\\MobileAppTest.csproj",
+      "projectUniqueName": "C:\\Users\\dig_servdev\\Desktop\\crap\\MobileApp\\MobileAppTest\\MobileAppTest.csproj",
       "projectName": "MobileAppTest",
-      "projectPath": "C:\\Users\\dig_servdev\\Desktop\\demo\\MobileApp\\MobileAppTest\\MobileAppTest.csproj",
+      "projectPath": "C:\\Users\\dig_servdev\\Desktop\\crap\\MobileApp\\MobileAppTest\\MobileAppTest.csproj",
       "packagesPath": "C:\\Users\\dig_servdev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dig_servdev\\Desktop\\demo\\MobileApp\\MobileAppTest\\obj\\",
+      "outputPath": "C:\\Users\\dig_servdev\\Desktop\\crap\\MobileApp\\MobileAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
