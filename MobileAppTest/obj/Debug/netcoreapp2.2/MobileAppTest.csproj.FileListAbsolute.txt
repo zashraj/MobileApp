@@ -12,14 +12,10 @@ C:\Users\dig_servdev\Desktop\demo\MobileApp\MobileAppTest\obj\Debug\netcoreapp2.
 C:\Users\dig_servdev\Desktop\demo\MobileApp\MobileAppTest\obj\Debug\netcoreapp2.2\MobileAppTest.AssemblyInfo.cs
 C:\Users\dig_servdev\Desktop\demo\MobileApp\MobileAppTest\obj\Debug\netcoreapp2.2\MobileAppTest.dll
 C:\Users\dig_servdev\Desktop\demo\MobileApp\MobileAppTest\obj\Debug\netcoreapp2.2\MobileAppTest.pdb
-C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\bin\Debug\netcoreapp2.2\MobileAppTest.deps.json
-C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\bin\Debug\netcoreapp2.2\MobileAppTest.runtimeconfig.json
-C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\bin\Debug\netcoreapp2.2\MobileAppTest.runtimeconfig.dev.json
 C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\bin\Debug\netcoreapp2.2\MobileAppTest.dll
 C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\bin\Debug\netcoreapp2.2\MobileAppTest.pdb
+C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\obj\Debug\netcoreapp2.2\MobileAppTest.csprojAssemblyReference.cache
 C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\obj\Debug\netcoreapp2.2\MobileAppTest.csproj.CoreCompileInputs.cache
 C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\obj\Debug\netcoreapp2.2\MobileAppTest.AssemblyInfoInputs.cache
 C:\Users\dig_servdev\Desktop\crap\MobileApp\MobileAppTest\obj\Debug\netcoreapp2.2\MobileAppTest.AssemblyInfo.cs
